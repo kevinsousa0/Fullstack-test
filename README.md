@@ -97,16 +97,16 @@ Postman (opcional, para testar API)
 # 🚀 Configuração e Execução
 
 # 1. Executando o Backend
-Opção 1: Usando Maven Wrapper (Recomendado)
+# Opção 1: Usando Maven Wrapper (Recomendado)
 
  Navegue até a pasta do backend
  
 ~ cd BackEnd/desembalamenos
 
- # Execute o projeto (Windows)
+  Execute o projeto (Windows)
 ./mvnw.cmd spring-boot:run
 
-#  Execute o projeto (Linux/Mac)
+  Execute o projeto (Linux/Mac)
 ./mvnw spring-boot:run
 
 
@@ -149,13 +149,16 @@ Password: senhateste
 
 # 2. Executando o Frontend:
 
-# Navegue até a pasta do frontend
+ Navegue até a pasta do frontend: 
+ 
 cd Frontend
 
-# Instale as dependências
+ Instale as dependências: 
+ 
 npm install ou yarn install
 
-# Execute o projeto em modo desenvolvimento
+ Execute o projeto em modo desenvolvimento:
+ 
 npm start ou yarn start
 
 
