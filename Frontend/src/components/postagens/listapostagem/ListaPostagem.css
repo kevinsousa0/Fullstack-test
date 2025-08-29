@@ -1,0 +1,29 @@
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.botao{
+    color: black;
+    background-color: #bb86fc!important;
+}
+
+body {
+    background-color: black !important;
+}
+
+.MuiTypography-root {
+    color: white !important;
+}
+
+.MuiCard-root {
+    background-color: #1a1a1a !important;
+    color: white !important;
+}
+
+.MuiCardContent-root {
+    color: white !important;
+}
+
+.MuiCardContent-root .MuiTypography-root {
+    color: white !important;
+}

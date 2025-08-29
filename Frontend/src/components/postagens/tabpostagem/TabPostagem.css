@@ -1,0 +1,34 @@
+.titulo{
+    font-weight: bold;
+    background-color: black;
+    color: white !important;
+}
+
+.cor{
+     background-color: black;
+}
+
+.texto{
+    color: white !important;
+}
+
+body {
+    background-color: black !important;
+}
+
+.MuiTypography-root {
+    color: white !important;
+}
+
+.MuiCard-root {
+    background-color: #1a1a1a !important;
+    color: white !important;
+}
+
+.MuiCardContent-root {
+    color: white !important;
+}
+
+.MuiCardContent-root .MuiTypography-root {
+    color: white !important;
+}

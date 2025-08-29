@@ -1,0 +1,59 @@
+.topo{
+    margin-top: 20px;
+    background-color: black !important;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.botao{
+    color: black!important;
+    background-color:#A374E2!important ;
+}
+
+body {
+    background-color: black !important;
+}
+
+.MuiTypography-root {
+    color: white !important;
+}
+
+.MuiContainer-root {
+    background-color: black !important;
+}
+
+.MuiTextField-root {
+    background-color: #1a1a1a !important;
+}
+
+.MuiTextField-root .MuiInputBase-root {
+    color: white !important;
+}
+
+.MuiTextField-root .MuiInputLabel-root {
+    color: white !important;
+}
+
+.MuiTextField-root .MuiOutlinedInput-notchedOutline {
+    border-color: white !important;
+}
+
+.MuiTextField-root .MuiOutlinedInput-root:hover .MuiOutlinedInput-notchedOutline {
+    border-color: white !important;
+}
+
+.MuiFormControl-root {
+    background-color: #1a1a1a !important;
+}
+
+.MuiInputLabel-root {
+    color: white !important;
+}
+
+.MuiSelect-root {
+    color: white !important;
+}
+
+.MuiFormHelperText-root {
+    color: white !important;
+}

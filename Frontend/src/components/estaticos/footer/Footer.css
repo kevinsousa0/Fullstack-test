@@ -1,0 +1,20 @@
+.box1{
+    background-color: black;
+    height: 100px;
+}
+
+.box2{
+    background-color: black;
+    height: 50px;
+    margin-top: 0,5%;
+}
+
+.redes{
+    font-size: 60px !important;
+    color: white;
+}
+
+.textos{
+    
+    color: white;
+}
