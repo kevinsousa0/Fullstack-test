@@ -90,7 +90,7 @@ Postman (opcional, para testar API)
 # 📁 Estrutura do Projeto
 
 
-<img width="576" height="549" alt="image" src="https://github.com/user-attachments/assets/46fdcbe9-8d13-468b-b2da-7c12d362682e" />
+<img width="576" height="549" alt="image" src="https://github.com/user-attachments/assets/f1638e38-1816-474f-9233-a909b6fdff61" />
 
 
     
